@@ -1,0 +1,14 @@
+:root {
+
+background-color: rgb(250, 250, 250);
+}
+
+
+
+#titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(5, 57, 57);
+}
